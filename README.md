@@ -14,7 +14,7 @@
 
 - 💬 Ask me about your problems
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FunW-BthmDnU0yYl1H7Ldb7mkbs-Wmu2/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kK-P9JVjcafU4oNx38eomLcFqSHzzE0-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
