@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thinhngotony" alt="thinhngotony" /></a> </p>
 
-- 🔭 I’m currently working on [UIT](https://www.uit.edu.vn/)
+- 🔭 I’m currently working on [Skylab](https://www.skylabteam.com/)
 
 - 📫 How to reach me **thinhngo.tony@gmail.com**
 
