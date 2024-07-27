@@ -1,0 +1,20 @@
+repo_name: thinhngotony/thinhngotony
+report_id: 51b7a0ef3f9d807a444ddb1a1524657a
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-27T17:21:16+00:00'
+requested_by: thinhngotony
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/thinhngotony/thinhngotony
+  detection_source: Repo Metadata
