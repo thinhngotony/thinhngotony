@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ngo Phuc Thinh
 
-### *Senior Software Engineer | Golang Specialist | Web3 Architect*
+### *Senior Software Engineer | Golang Architect | Web3 Infrastructure Engineer*
 
 **Building scalable infrastructure and decentralized systems**
 
@@ -39,13 +39,13 @@ I'm passionate about building **high-performance, scalable systems** that power 
 ```
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
-│  ⚙️  GOLANG SPECIALIST                                    │
+│  ⚙️  GOLANG ARCHITECT                                     │
 │      → Microservices, gRPC, High-Performance Systems     │
 │                                                            │
 │  ☁️  CLOUD ARCHITECT                                      │
 │      → Kubernetes, Docker, AWS/Azure, Infrastructure     │
 │                                                            │
-│  🔗  BLOCKCHAIN EXPERT                                    │
+│  🔗  BLOCKCHAIN ENGINEER                                  │
 │      → Smart Contracts, Web3, DApps, Protocols          │
 │                                                            │
 │  🌐  FULL-STACK ENGINEER                                 │
@@ -85,14 +85,14 @@ I'm passionate about building **high-performance, scalable systems** that power 
 [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)](https://terraform.io)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://jenkins.io)
 
-### � Blockchain & Web3
+### 🔗 Blockchain & Web3
 
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)](https://ethereum.org)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)](https://soliditylang.org)
 [![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)](https://web3js.org)
 [![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=flat-square&logoColor=black)](https://hardhat.org)
 
-### � Databases & Data
+### 💾 Databases & Data
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
@@ -166,10 +166,6 @@ I'm passionate about building **high-performance, scalable systems** that power 
 ### 💾 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=thinhngotony&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-### 🐍 Contribution Graph
-
-![GitHub Contribution Snake](https://github.com/thinhngotony/thinhngotony/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
