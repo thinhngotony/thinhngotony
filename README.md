@@ -18,15 +18,18 @@
 
 ### ✨ About Me
 
-> **Passionate engineer** building scalable solutions at the intersection of **Web3**, **Cloud**, and **Software Architecture**
+> **Founder & Visionary** building the future of Web3 infrastructure at **[HyberOrbit](https://hyberorbit.com/)**  
+> **Passionate engineer** architecting scalable solutions at the intersection of **Web3**, **Cloud**, and **AI**
 
-I'm a Senior Software Engineer at **[AdaBeat](https://www.linkedin.com/company/adabeat)** with a proven track record in:
-- 🔗 **Blockchain & Smart Contracts** – Deep expertise in distributed systems and Web3 protocols
-- ☁️ **Cloud Infrastructure** – AWS, Azure, Kubernetes, Docker for production systems
-- 🏗️ **Full-Stack Development** – Web, mobile, and backend systems at scale
-- 🤖 **AI/ML Integration** – Building intelligent systems with TensorFlow & PyTorch
+I'm a Senior Software Engineer and **Founder of [HyberOrbit](https://hyberorbit.com/)**, where we're revolutionizing blockchain infrastructure. Currently working on building next-generation Web3 solutions while continuing to innovate at [AdaBeat](https://www.linkedin.com/company/adabeat).
 
-**What drives me:** Solving complex technical challenges and collaborating with talented teams to ship products that matter.
+**Core Expertise:**
+- 🔗 **Blockchain & Web3 Architecture** – Leading HyberOrbit's protocol development
+- ☁️ **Cloud Infrastructure at Scale** – AWS, Azure, Kubernetes for enterprise systems
+- 🏗️ **Full-Stack Engineering** – Web, mobile, and backend systems
+- 🤖 **AI/ML Integration** – Intelligent distributed systems
+
+**Mission:** Building infrastructure that powers the decentralized future while mentoring the next generation of engineers.
 
 ---
 
@@ -36,51 +39,53 @@ I'm a Senior Software Engineer at **[AdaBeat](https://www.linkedin.com/company/a
 <tr>
 <td width="50%">
 
-### � **Languages**
-```
-Python          ████████████░░░  92%
-TypeScript      ██████████░░░░░  85%
-JavaScript      ██████████░░░░░  84%
-Go              █████████░░░░░░  78%
-Java            ████████░░░░░░░  75%
-C++             ███████░░░░░░░░  70%
-Solidity        ███████░░░░░░░░  68%
-```
+### 💻 **Languages**
+| Language | Proficiency |
+|----------|:---:|
+| Python | ⭐⭐⭐⭐⭐ |
+| TypeScript | ⭐⭐⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐⭐⭐ |
+| Go | ⭐⭐⭐⭐☆ |
+| Java | ⭐⭐⭐⭐☆ |
+| C++ | ⭐⭐⭐⭐☆ |
+| Solidity | ⭐⭐⭐⭐☆ |
+| Rust | ⭐⭐⭐☆☆ |
 
 ### 🎨 **Frontend**
 - React, Next.js, Vue.js
 - Tailwind CSS, Material-UI
 - Web3.js, Ethers.js
+- Web3 UX/DApp Development
 
 </td>
 <td width="50%">
 
 ### ☁️ **Cloud & DevOps**
-- AWS (EC2, S3, Lambda, RDS)
-- Azure (VMs, App Service)
-- Docker & Docker Compose
-- Kubernetes, Helm
-- CI/CD: GitHub Actions, GitLab CI
+- **AWS:** EC2, S3, Lambda, RDS, CloudFront
+- **Azure:** VMs, App Service, Cosmos DB
+- **Orchestration:** Kubernetes, Docker, Helm
+- **CI/CD:** GitHub Actions, GitLab CI, Jenkins
+- **Monitoring:** Prometheus, Grafana, ELK Stack
 
 ### 📱 **Mobile & Desktop**
-- Flutter, React Native
-- Android (Kotlin, Java)
-- Electron, .NET, Xamarin
+- **Mobile:** Flutter, React Native, Android
+- **Desktop:** Electron, .NET, WPF
+- **Games:** Unity (C#), Unreal Engine
 
 </td>
 </tr>
 </table>
 
-### 🗄️ **Databases & Backends**
+### 🗄️ **Databases, Backends & Infrastructure**
 <div align="center">
 
 | Category | Technologies |
 |----------|--------------|
-| **Databases** | PostgreSQL, MongoDB, MySQL, Redis, Firebase |
-| **Messaging** | RabbitMQ, Kafka, Apache Pulsar |
-| **APIs** | GraphQL, REST, gRPC, WebSocket |
-| **ML/AI** | TensorFlow, PyTorch, scikit-learn, OpenCV |
-| **Blockchain** | Ethereum, Solidity, Web3, Smart Contracts |
+| **Databases** | PostgreSQL • MongoDB • MySQL • Redis • Firebase • Cassandra |
+| **Message Queues** | RabbitMQ • Kafka • Apache Pulsar • AWS SQS |
+| **APIs** | GraphQL • REST • gRPC • WebSocket • tRPC |
+| **Blockchain** | Ethereum • Solidity • Web3.js • Hardhat • Foundry |
+| **ML/AI** | TensorFlow • PyTorch • scikit-learn • OpenCV • Hugging Face |
 
 </div>
 
@@ -93,22 +98,22 @@ Solidity        ███████░░░░░░░░  68%
 <td>
 
 ### 🎯 Current Focus
-- � Advanced blockchain architectures
-- ☁️ Kubernetes orchestration at scale
-- 🤖 AI/ML pipeline optimization
-- 📱 Cross-platform mobile solutions
+- 🔗 Advanced blockchain infrastructure
+- ☁️ Web3 protocol development
+- 🤖 AI-powered smart contracts
+- 📱 DApp ecosystem solutions
 
 </td>
 <td>
 
-### 💡 Portfolio
-**👉 [Visit My Full Portfolio](https://thinhngotony.github.io/)**
+### 💡 Portfolio & Project Showcase
+**👉 [Visit HyberOrbit](https://hyberorbit.com/)**
 
-Showcase of completed projects:
-- Blockchain DApps
-- Cloud infrastructure
-- Full-stack web applications
-- Mobile applications
+Explore cutting-edge projects:
+- Next-gen blockchain protocols
+- Web3 infrastructure solutions
+- Scalable DApp platforms
+- Enterprise blockchain systems
 
 </td>
 </tr>
@@ -161,9 +166,9 @@ Showcase of completed projects:
 
 | 📚 Currently Learning | 🔮 Exploring | 🎯 Goals |
 |:-:|:-:|:-:|
-| Advanced Solidity Patterns | Quantum Computing Basics | Lead engineering teams |
-| Zero-Knowledge Proofs | Layer 2 Solutions | Contribute to web3 standards |
-| Rust for Systems | Distributed Consensus | Open-source leadership |
+| Zero-Knowledge Proofs | Quantum Computing | CTO of HyberOrbit |
+| Layer 2 Solutions | Cross-Chain Bridges | Shape Web3 Future |
+| Smart Contract Security | Distributed Consensus | Lead Innovation |
 
 </div>
 
@@ -178,10 +183,10 @@ Showcase of completed projects:
 | Platform | Link |
 |----------|------|
 | 📧 **Email** | [thinhngo.tony@gmail.com](mailto:thinhngo.tony@gmail.com) |
-| � **LinkedIn** | [linkedin.com/in/thinhngotony](https://www.linkedin.com/in/thinhngotony/) |
+| 💼 **LinkedIn** | [linkedin.com/in/thinhngotony](https://www.linkedin.com/in/thinhngotony/) |
 | 🐦 **Twitter** | [@thinhngotony](https://twitter.com/thinhngotony) |
 | 💻 **GitHub** | [github.com/thinhngotony](https://github.com/thinhngotony) |
-| 🌐 **Portfolio** | [thinhngotony.github.io](https://thinhngotony.github.io/) |
+| 🌐 **Portfolio/Startup** | [hyberorbit.com](https://hyberorbit.com/) |
 
 ### 📄 Resume
 
@@ -224,7 +229,7 @@ If you find my projects useful, please consider giving them a ⭐
 
 ### 🎯 Quick Links
 
-[🌍 Portfolio](https://thinhngotony.github.io/) • [📋 Resume](https://drive.google.com/file/d/1paFMnBwhHEpSD7zvVhzg1QfZEhT4dczv/view?usp=drive_link) • [💼 LinkedIn](https://www.linkedin.com/in/thinhngotony/) • [📧 Email](mailto:thinhngo.tony@gmail.com)
+[� HyberOrbit](https://hyberorbit.com/) • [📋 Resume](https://drive.google.com/file/d/1paFMnBwhHEpSD7zvVhzg1QfZEhT4dczv/view?usp=drive_link) • [💼 LinkedIn](https://www.linkedin.com/in/thinhngotony/) • [📧 Email](mailto:thinhngo.tony@gmail.com)
 
 ---
 
@@ -232,12 +237,12 @@ If you find my projects useful, please consider giving them a ⭐
   <img alt="Visitor Badge" src="https://komarev.com/ghpvc/?username=thinhngotony&color=blueviolet" />
 </p>
 
-**Made with ❤️ by [Tony Ngo](https://github.com/thinhngotony)**
+**Made with ❤️ by Power by HyberOrbit**
 
-© 2024 Ngo Phuc Thinh. All rights reserved.
+© 2025 Ngo Phuc Thinh. All rights reserved.
 
 <br>
 
-<sub>Last updated: November 2024</sub>
+<sub>Last updated: November 2025</sub>
 
 </div>
