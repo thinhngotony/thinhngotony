@@ -39,17 +39,17 @@ I'm passionate about building **high-performance, scalable systems** that power 
 ```
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
-│  ⚙️  GOLANG ARCHITECT                                     │
-│      → Microservices, gRPC, High-Performance Systems     │
+│  ⚙️  GOLANG EXPERT                                        │
+│      → Microservices, gRPC, High-Performance Systems      │
 │                                                            │
-│  ☁️  CLOUD ARCHITECT                                      │
-│      → Kubernetes, Docker, AWS/Azure, Infrastructure     │
+│  ☁️  CLOUD ARCHITECT                                       │
+│      → Kubernetes, Docker, AWS/Azure, Infrastructure       │
 │                                                            │
-│  🔗  BLOCKCHAIN ENGINEER                                  │
-│      → Smart Contracts, Web3, DApps, Protocols          │
+│  🔗  BLOCKCHAIN ENGINEER                                   │
+│      → Smart Contracts, Web3, DApps, Protocols             │
 │                                                            │
-│  🌐  FULL-STACK ENGINEER                                 │
-│      → Backend, Frontend, Mobile, Systems Design        │
+│  🌐  FULL-STACK ENGINEER                                   │
+│      → Backend, Frontend, Mobile, Systems Design           │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
