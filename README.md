@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ngo Phuc Thinh
 
-### *Senior Software Engineer | Golang Architect | Web3 Infrastructure Engineer*
+### *Senior Software Engineer | Golang Expert | Cloud Platform Engineer*
 
 **Building scalable infrastructure and decentralized systems**
 
@@ -238,7 +238,8 @@ If you find my projects useful, please consider giving them a ⭐
 
 ### 🎯 Quick Links
 
-[� HyberOrbit](https://hyberorbit.com/) • [📋 Resume](https://drive.google.com/file/d/1paFMnBwhHEpSD7zvVhzg1QfZEhT4dczv/view?usp=drive_link) • [💼 LinkedIn](https://www.linkedin.com/in/thinhngotony/) • [📧 Email](mailto:thinhngo.tony@gmail.com)
+[🌐 HyberOrbit](https://hyberorbit.com/) • [📋 Resume](https://drive.google.com/file/d/1paFMnBwhHEpSD7zvVhzg1QfZEhT4dczv/view
+?usp=drive_link) • [💼 LinkedIn](https://www.linkedin.com/in/thinhngotony/) • [📧 Email](mailto:thinhngo.tony@gmail.com)
 
 ---
 
