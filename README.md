@@ -1,223 +1,142 @@
 <div align="center">
 
-## 👋 Hi, I'm Ngo Phuc Thinh
+# 👋 Hi, I'm Ngo Phuc Thinh
 
-### *Senior Software Engineer | Blockchain Architect | Cloud Infrastructure Expert*
+### *Senior Software Engineer | Golang Specialist | Web3 Architect*
+
+**Building scalable infrastructure and decentralized systems**
 
 <p>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=thinhngotony&label=Profile%20views&color=0e75b6&style=flat-square" />
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/thinhngotony?style=flat-square&logo=github" />
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/thinhngotony?style=flat-square&logo=github&color=0e75b6" />
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/thinhngotony?style=flat-square&logo=github&color=0e75b6" />
 </p>
 
 <!-- Animated gradient divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
 ---
 
-### ✨ About Me
+## 🚀 About Me
 
 > **Founder & Builder** architecting Web3 infrastructure at **[HyberOrbit](https://hyberorbit.com/)**  
-> **Cloud Infrastructure Specialist** with expertise in distributed systems and blockchain protocols
+> **Cloud Infrastructure Specialist** with deep expertise in distributed systems and blockchain protocols
 
-**Professional Background:**
-- 🏢 **Cisco Systems** (via AdaBeat) – Outsource Software Engineer working on enterprise infrastructure
-- ☁️ **Skylab** – Cloud Platform Engineer, designed and maintained scalable cloud solutions
-- 🔗 **HyberOrbit** – Founder, building next-generation Web3 protocols and blockchain infrastructure
+I'm passionate about building **high-performance, scalable systems** that power the decentralized future. With a strong background in cloud infrastructure and a focus on **Go/Golang**, I design solutions that stand the test of scale.
 
-**Core Expertise:**
-- ⚙️ **Golang Specialist** – High-performance systems, microservices, and distributed backends
-- ☁️ **Cloud Infrastructure** – AWS, Azure, Kubernetes for enterprise-grade deployments
-- 🔗 **Blockchain & Web3** – Smart contracts, protocols, DApp infrastructure (personal projects)
-- 🤖 **Full-Stack Engineering** – Web, mobile, backend systems at scale
+### 💼 Professional Background
 
-**Mission:** Building robust, scalable infrastructure that powers the decentralized future.
+| Role | Company | Focus |
+|------|---------|-------|
+| 🏢 **Outsource Software Engineer** | Cisco Systems (via AdaBeat) | Enterprise infrastructure & systems |
+| ☁️ **Cloud Platform Engineer** | Skylab | Scalable cloud solutions & orchestration |
+| 🔗 **Founder** | HyberOrbit | Web3 protocols & blockchain infrastructure |
+
+### 🎯 Core Competencies
+
+```
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  ⚙️  GOLANG SPECIALIST                                    │
+│      → Microservices, gRPC, High-Performance Systems     │
+│                                                            │
+│  ☁️  CLOUD ARCHITECT                                      │
+│      → Kubernetes, Docker, AWS/Azure, Infrastructure     │
+│                                                            │
+│  🔗  BLOCKCHAIN EXPERT                                    │
+│      → Smart Contracts, Web3, DApps, Protocols          │
+│                                                            │
+│  🌐  FULL-STACK ENGINEER                                 │
+│      → Backend, Frontend, Mobile, Systems Design        │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## 🛠️ Tech Stack & Expertise
 
-<!-- Animated Tech Stack Section -->
 <div align="center">
 
-### ⚙️ **Languages & Specializations**
+### 🏆 Primary Skills
 
-| **Go (Primary)** | **Python** | **TypeScript** | **JavaScript** | **Java** |
-|:---:|:---:|:---:|:---:|:---:|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ |
-| **Microservices** | **Data** | **Systems** | **Scripting** | **Enterprise** |
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org)
+[![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)](https://grpc.io)
+[![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logoColor=white)](https://microservices.io)
+[![Protocol%20Buffers](https://img.shields.io/badge/Protocol%20Buffers-3FD4F1?style=flat-square&logoColor=white)](https://protobuf.dev)
 
----
+### 🌟 Core Technologies
 
-### 💎 **Specialized Skills**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://javascript.com)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Java](https://img.shields.io/badge/Java-ED8936?style=flat-square&logo=java&logoColor=white)](https://java.com)
 
-| **Go/Golang** ⭐⭐⭐⭐⭐ | **Blockchain** ⭐⭐⭐⭐☆ | **Cloud Infra** ⭐⭐⭐⭐☆ |
-|:---:|:---:|:---:|
-| gRPC, Protocol Buffers | Smart Contracts | AWS, Kubernetes |
-| Microservices, APIs | Web3, DApps | Docker, Helm |
-| Concurrency, Performance | Solidity, Hardhat | CI/CD Automation |
+### ☁️ Cloud & DevOps
 
----
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)](https://terraform.io)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://jenkins.io)
 
-</div>
+### � Blockchain & Web3
 
-<table>
-<tr>
-<td width="50%">
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)](https://ethereum.org)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)](https://soliditylang.org)
+[![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)](https://web3js.org)
+[![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=flat-square&logoColor=black)](https://hardhat.org)
 
-### 🎨 **Frontend & Web**
-- **Frameworks:** React, Next.js, Vue.js
-- **Styling:** Tailwind CSS, Material-UI
-- **Web3:** Web3.js, Ethers.js
-- **DApp Development:** Wagmi, RainbowKit
+### � Databases & Data
 
-### 🌐 **Backend & APIs**
-- **Go:** gRPC, Gin, Echo frameworks
-- **APIs:** REST, GraphQL, gRPC, WebSocket
-- **Message Queues:** RabbitMQ, Kafka, Pulsar
-- **Authentication:** JWT, OAuth 2.0
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
 
-</td>
-<td width="50%">
+### 🤖 AI/ML & Tools
 
-### ☁️ **Cloud & DevOps**
-- **AWS:** EC2, S3, Lambda, RDS, CloudFront, VPC
-- **Azure:** VMs, App Service, Cosmos DB, Functions
-- **Orchestration:** Kubernetes, Docker, Helm, ArgoCD
-- **CI/CD:** GitHub Actions, GitLab CI, Jenkins
-- **Monitoring:** Prometheus, Grafana, Datadog
-
-### 📱 **Mobile & Desktop**
-- **Mobile:** Flutter, React Native, Android (Kotlin)
-- **Desktop:** Electron, .NET, WPF
-- **Cross-platform:** Expo, Android Studio
-
-</td>
-</tr>
-</table>
-
-### 🗄️ **Databases, Infrastructure & Blockchain**
-<div align="center">
-
-| **Databases** | **Messaging** | **Blockchain** |
-|:---:|:---:|:---:|
-| PostgreSQL • MongoDB | RabbitMQ • Kafka | Ethereum • Solidity |
-| MySQL • Redis | AWS SQS • Pulsar | Web3.js • Hardhat |
-| Firebase • Cassandra | GraphQL • REST | Smart Contracts • DeFi |
-
-| **ML/AI** | **DevOps Tools** |
-|:---:|:---:|
-| TensorFlow • PyTorch | Terraform • Ansible |
-| scikit-learn • OpenCV | ELK Stack • Prometheus |
-| Hugging Face • Pandas | GitHub • GitLab |
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
 
 </div>
 
 ---
 
-## 📂 Featured Projects
+---
 
-### 🌟 **Tech Stack Highlights**
+## 📂 Featured Projects & Repositories
 
 <div align="center">
 
-**Primary Expertise:**
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
-[![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)](https://grpc.io)
-[![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=api&logoColor=white)](https://microservices.io)
-
-**Secondary Expertise:**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-
-**Cloud & Infrastructure:**
-
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+### 🌟 **Current Ventures**
 
 </div>
 
----
+| 🔗 **HyberOrbit** | 💻 **Blockchain Infrastructure** |
+|---|---|
+| Building next-generation Web3 protocols and decentralized systems | [Visit →](https://hyberorbit.com/) |
 
-### 🎯 Current Focus & Projects
+> **Focus:** Scalable blockchain infrastructure, Web3 security, distributed consensus mechanisms.
 
-| **Area** | **Focus** |
-|:---:|:---|
-| 🔗 **Blockchain** | Advanced blockchain infrastructure & smart contracts |
-| ☁️ **Cloud** | Kubernetes orchestration & distributed systems |
-| 🌐 **Backend** | High-performance APIs with Go & microservices |
-| 💻 **Portfolio** | [Visit HyberOrbit →](https://hyberorbit.com/) |
+### 📚 **Open Source & Personal Projects**
 
----
-
-## 📊 GitHub Statistics & Insightsdge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)](https://web3js.org)
-
-</div>ign="center">
-
-### 🎯 Technology Ecosystem
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                   TECH STACK MATRIX                     │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  🔴 PRIMARY  ► GO/Golang (Microservices & APIs)       │
-│  🟡 STRONG   ► Python, TypeScript, JavaScript          │
-│  🟢 EXPERT   ► Blockchain (Solidity, Web3)            │
-│  🔵 ADVANCED ► Cloud (AWS, Azure, Kubernetes)         │
-│                                                         │
-├─────────────────────────────────────────────────────────┤
-│                    FOCUS AREAS                          │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  ⚡ Performance    ► gRPC, Protocol Buffers            │
-│  🔐 Security      ► Smart Contracts, Web3              │
-│  📈 Scalability   ► Kubernetes, Distributed Systems   │
-│  🚀 Innovation    ► DApps, Blockchain Infrastructure  │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<table>
-<tr>
-<td>
-
-### 🎯 Current Focus
-- 🔗 Advanced blockchain infrastructure
-- ☁️ Web3 protocol development
-- 🤖 AI-powered smart contracts
-- 📱 DApp ecosystem solutions
-
-</td>
-<td>
-
-### 💡 Portfolio & Project Showcase
-**👉 [Visit HyberOrbit](https://hyberorbit.com/)**
-
-Explore cutting-edge projects:
-- Next-gen blockchain protocols
-- Web3 infrastructure solutions
-- Scalable DApp platforms
-- Enterprise blockchain systems
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| 🚀 *Microservices Framework* | High-performance distributed systems | Go, gRPC, Kubernetes |
+| 🔗 *Smart Contract Library* | Optimized blockchain protocols | Solidity, Web3.js, Hardhat |
+| ☁️ *Cloud Tools* | Infrastructure automation | AWS, Terraform, Docker |
 
 ---
 
-## 📊 GitHub Statistics & Insights
-
-<div align="center">
+## 📊 GitHub Statistics & Insights<div align="center">
 
 ### 🏆 Achievements
 
